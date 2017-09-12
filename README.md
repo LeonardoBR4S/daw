@@ -1,2 +1,3 @@
 # daw
-Desenvolvimento de aplicação em aula
+Desenvolvimento de Aplicações para Web I
+Ifsul - Informática para a internet
